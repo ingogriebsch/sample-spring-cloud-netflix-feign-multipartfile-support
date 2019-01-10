@@ -14,7 +14,7 @@ Collection of the mainly used frameworks in this project. There are more, but th
 *   [Feign Form Encoder](https://github.com/OpenFeign/feign-form#spring-multipartfile-and-spring-cloud-netflix-feignclient-support)
 *   [Spring Boot](https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle)
 
-## Additional links which help to solve the problem
+## Additional links which helped to understand and solve the issue
 
 *   [FeignClient: Multipart requests only work with @PathVariable parameters](https://github.com/spring-cloud/spring-cloud-netflix/issues/867)
 *   [Add support for MultipartFile](https://github.com/spring-cloud/spring-cloud-openfeign/issues/62)
