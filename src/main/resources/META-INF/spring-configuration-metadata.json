@@ -1,0 +1,6 @@
+{
+    "properties": [{
+        "name": "file-client.url",
+        "type": "java.lang.String"
+    }]
+}
