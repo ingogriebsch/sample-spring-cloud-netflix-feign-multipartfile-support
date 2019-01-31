@@ -1,7 +1,7 @@
 # Spring Cloud Netflix feign multipartfile support sample
 [![Build Status](https://travis-ci.org/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support.svg?branch=master)](https://travis-ci.org/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support)
 [![Coverage Status](https://coveralls.io/repos/github/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support/badge.svg?branch=master)](https://coveralls.io/github/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support?branch=master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3eccc37494874292929b67bbafdbc7a5)](https://app.codacy.com/app/ingo.griebsch/sample-spring-cloud-netflix-feign-multipartfile-support?utm_source=github.com&utm_medium=referral&utm_content=ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8916c0046d9a4090ac8aa117f598f37f)](https://app.codacy.com/app/ingo.griebsch/sample-spring-cloud-netflix-feign-multipartfile-support?utm_source=github.com&utm_medium=referral&utm_content=ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support&utm_campaign=Badge_Grade_Dashboard)
 [![DepShield Badge](https://depshield.sonatype.org/badges/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support/depshield.svg)](https://depshield.github.io)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
