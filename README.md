@@ -1,5 +1,6 @@
 # Spring Cloud Netflix feign multipartfile support sample
 [![Build Status](https://travis-ci.org/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support.svg?branch=master)](https://travis-ci.org/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support)
+[![Codecov Status](https://codecov.io/gh/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support/branch/master/graph/badge.svg)](https://codecov.io/gh/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support)
 [![Coveralls Status](https://coveralls.io/repos/github/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support/badge.svg?branch=master)](https://coveralls.io/github/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support?branch=master)
 [![Codacy Status](https://api.codacy.com/project/badge/Grade/8916c0046d9a4090ac8aa117f598f37f)](https://app.codacy.com/app/ingo.griebsch/sample-spring-cloud-netflix-feign-multipartfile-support?utm_source=github.com&utm_medium=referral&utm_content=ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support&utm_campaign=Badge_Grade_Dashboard)
 [![DepShield Status](https://depshield.sonatype.org/badges/ingogriebsch/sample-spring-cloud-netflix-feign-multipartfile-support/depshield.svg)](https://depshield.github.io)
