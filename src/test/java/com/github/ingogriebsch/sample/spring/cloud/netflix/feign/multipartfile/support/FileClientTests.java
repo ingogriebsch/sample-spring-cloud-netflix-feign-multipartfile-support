@@ -13,6 +13,7 @@ import static com.github.ingogriebsch.sample.spring.cloud.netflix.feign.multipar
 import static org.apache.commons.lang3.RandomStringUtils.randomAlphabetic;
 import static org.springframework.boot.test.context.SpringBootTest.WebEnvironment.DEFINED_PORT;
 
+import feign.FeignException;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,8 +21,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.mock.web.MockMultipartFile;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringRunner;
-
-import feign.FeignException;
 
 @RunWith(SpringRunner.class)
 @ActiveProfiles(value = "feignclient")
